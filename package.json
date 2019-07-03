@@ -12,6 +12,6 @@
   "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
-   
+    "vant": "^2.0.5"
   }
 }
